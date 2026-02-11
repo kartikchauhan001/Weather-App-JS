@@ -36,6 +36,10 @@ Weather-App-JS/
 ├── wind.png
 └── search.png
 
+## 🌐 Live Demo
+
+https://kartikchauhan001.github.io/Weather-App-JS/
+
 ## 📸 Screenshot
 <img width="1900" height="883" alt="image" src="https://github.com/user-attachments/assets/9f12f76f-d84c-42de-9ba7-39c45695bd96" />
 
@@ -47,7 +51,7 @@ Weather-App-JS/
 3. Generate an API key
 4. Replace the API key inside `script.js`:
 
-```javascript
+javascript
 const apiKey = "YOUR_API_KEY_HERE";
 
 ▶️ How to Run Locally
@@ -63,9 +67,6 @@ const apiKey = "YOUR_API_KEY_HERE";
 
 5.Run using Live Server
 
-🌍 Live Demo
-
-https://kartikchauhan001.github.io/Weather-App-JS/
 
 📌 Future Improvements
 
@@ -84,5 +85,3 @@ https://kartikchauhan001.github.io/Weather-App-JS/
 Kartik Chauhan
 📧 chauhankartik260@gmail.com
 
-
-```
