@@ -36,6 +36,10 @@ Weather-App-JS/
 ├── wind.png
 └── search.png
 
+## 📸 Screenshot
+<img width="1900" height="883" alt="image" src="https://github.com/user-attachments/assets/9f12f76f-d84c-42de-9ba7-39c45695bd96" />
+
+
 ## API Setup
 
 1. Go to https://openweathermap.org/
